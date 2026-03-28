@@ -12,7 +12,8 @@
 tip：项目主要使用的编程语言是 python、sql
 
 ## 项目列表
-1. 天猫订单数据分析项目 (tmall-order-analysis)
+1. ![天猫订单数据分析项目](tmall-order-analysis) (tmall-order-analysis)
+
 项目描述：基于和鲸社区公开天猫订单数据集，通过 MySQL 完成数据清洗与多维度指标分析，结合 Python + pyecharts 实现交互式可视化，挖掘地域订单分布、时间趋势规律，给出合理的电商业务优化建议。
 
 核心技术：MySQL 数据清洗、SQL 聚合分析、pyecharts 交互式可视化、matplotlib
