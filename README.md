@@ -12,7 +12,7 @@
 tip：项目主要使用的编程语言是 python、sql
 
 ## 项目列表
-1. [天猫订单数据分析项目](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/tmall-order-analysis) (tmall-order-analysis)
+1. [天猫订单数据分析项目](https://github.com/Xiesta-27/DATA_ANALYSE/blob/main/tmall-order-analysis/tmall_visualization.ipynb) (tmall-order-analysis)
 
 项目描述：基于和鲸社区公开天猫订单数据集，通过 MySQL 完成数据清洗与多维度指标分析，结合 Python + pyecharts 实现交互式可视化，挖掘地域订单分布、时间趋势规律，给出合理的电商业务优化建议。
 
