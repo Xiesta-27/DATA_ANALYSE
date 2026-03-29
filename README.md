@@ -11,7 +11,7 @@
 tip：项目主要使用的编程语言是 python、sql
 
 ## 项目列表
-1. [天猫订单数据分析项目](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/tmall-order-analysis) (tmall-order-analysis)
+1. [天猫订单数据分析项目 (tmall-order-analysis)](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/tmall-order-analysis) 
 
 **项目描述：** 基于和鲸社区公开天猫订单数据集，通过 MySQL 完成数据清洗与多维度指标分析，结合 Python + pyecharts 实现交互式可视化，挖掘地域订单分布、时间趋势规律，给出合理的电商业务优化建议。
 
@@ -20,7 +20,7 @@ tip：项目主要使用的编程语言是 python、sql
 **核心成果：** 通过可视化图表确认 **东部沿海省市（上海、广东、江浙等）** 为核心营收市场，西部偏远地区为业务盲区。
 发现 2 月订单呈现「低谷期 - 复苏期 - 峰值震荡期」三段式周期规律。
 
-2. [双十一淘宝美妆数据分析](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/Double-11-analysis) (tmall-order-analysis) Double-11-analysis
+2. [双十一淘宝美妆数据分析 (Double-11-analysis)](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/Double-11-analysis) 
 
  **项目描述：** 基于 2016 年双十一淘宝美妆全周期销售数据集，通过 MySQL 完成数据结构化存储、重复值 / 缺失值清洗与特征工程，结合 Python 实现多维度探索性分析，并用 Matplotlib/Pyecharts 完成静态与交互式可视化，挖掘大促周期销售规律、品牌竞争格局与价格分层特征，输出可落地的电商美妆运营策略建议。
  
