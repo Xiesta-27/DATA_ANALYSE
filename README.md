@@ -1,6 +1,5 @@
 # DATA_ANALYSE
 
-
 这里是我的数据分析项目仓库，用来阐述和展示整个数据分析流程，同时也会提供相关的数据集，用于沉淀技术、展示能力与求职作品集。
 
 采用不同的技术栈，通过对不同的数据集进行分析，期望达到以下目的：
@@ -8,11 +7,11 @@
 - 深化数据处理、数据分析、数据可视化能力
 - 增加大数据批处理、流处理的实践经验
 - 增加数据挖掘的实践经验
-- 
+  
 tip：项目主要使用的编程语言是 python、sql
 
 ## 项目列表
-1. [天猫订单数据分析项目](https://github.com/Xiesta-27/DATA_ANALYSE/blob/main/tmall-order-analysis/tmall_visualization.ipynb) (tmall-order-analysis)
+1. [天猫订单数据分析项目](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/tmall-order-analysis) (tmall-order-analysis)
 
 项目描述：基于和鲸社区公开天猫订单数据集，通过 MySQL 完成数据清洗与多维度指标分析，结合 Python + pyecharts 实现交互式可视化，挖掘地域订单分布、时间趋势规律，给出合理的电商业务优化建议。
 
@@ -20,4 +19,7 @@ tip：项目主要使用的编程语言是 python、sql
 
 核心成果：通过可视化图表确认 ** 东部沿海省市（上海、广东、江浙等）** 为核心营收市场，西部偏远地区为业务盲区。
 发现 2 月订单呈现「低谷期 - 复苏期 - 峰值震荡期」三段式周期规律。
+
+2. [双十一淘宝美妆数据分析](https://github.com/Xiesta-27/DATA_ANALYSE/tree/main/Double-11-analysis) (tmall-order-analysis) Double-11-analysis
+
 
