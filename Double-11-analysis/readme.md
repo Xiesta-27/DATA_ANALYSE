@@ -12,7 +12,7 @@
 
 **核心技术栈**  
 - 数据库与 SQL：MySQL 8.0、DataGrip 2025、窗口函数、聚合函数、数据清洗与特征工程。
-- Python 数据分析：Python 3.x、Pandas、SQLAlchemy（Python-SQL 连接）。
+- Python 数据分析：Pandas、SQLAlchemy
 - 数据可视化：Matplotlib（静态可视化）、Pyecharts（交互式动态可视化）。
 
 ### 二、数据集说明
